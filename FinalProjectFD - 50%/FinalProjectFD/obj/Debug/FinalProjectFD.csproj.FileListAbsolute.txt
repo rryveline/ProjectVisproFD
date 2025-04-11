@@ -1,0 +1,11 @@
+C:\Users\DIGITAL MARKETING\source\repos\FinalProjectFD\FinalProjectFD\bin\Debug\FinalProjectFD.exe.config
+C:\Users\DIGITAL MARKETING\source\repos\FinalProjectFD\FinalProjectFD\bin\Debug\FinalProjectFD.exe
+C:\Users\DIGITAL MARKETING\source\repos\FinalProjectFD\FinalProjectFD\bin\Debug\FinalProjectFD.pdb
+C:\Users\DIGITAL MARKETING\source\repos\FinalProjectFD\FinalProjectFD\obj\Debug\FinalProjectFD.csproj.AssemblyReference.cache
+C:\Users\DIGITAL MARKETING\source\repos\FinalProjectFD\FinalProjectFD\obj\Debug\FinalProjectFD.FrmLogin.resources
+C:\Users\DIGITAL MARKETING\source\repos\FinalProjectFD\FinalProjectFD\obj\Debug\FinalProjectFD.Properties.Resources.resources
+C:\Users\DIGITAL MARKETING\source\repos\FinalProjectFD\FinalProjectFD\obj\Debug\FinalProjectFD.csproj.GenerateResource.cache
+C:\Users\DIGITAL MARKETING\source\repos\FinalProjectFD\FinalProjectFD\obj\Debug\FinalProjectFD.csproj.CoreCompileInputs.cache
+C:\Users\DIGITAL MARKETING\source\repos\FinalProjectFD\FinalProjectFD\obj\Debug\FinalProjectFD.exe
+C:\Users\DIGITAL MARKETING\source\repos\FinalProjectFD\FinalProjectFD\obj\Debug\FinalProjectFD.pdb
+C:\Users\DIGITAL MARKETING\source\repos\FinalProjectFD\FinalProjectFD\obj\Debug\FinalProjectFD.FrmMain.resources
